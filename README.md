@@ -13,4 +13,17 @@ Cybersecurity & Ethical Hacking: My Tactical Edge  My cybersecurity expertise is
 
 
 
+
+
+
+
+
+
+
+
 Uzoka PraiseGod Chimpuluime 
+
+As part of my cybersecurity training, I developed the skill of Vulnerability Analysis, which involves systematically identifying, evaluating, and prioritizing weaknesses in computer systems, networks, and applications. I learned how to use vulnerability scanning tools and manual assessment methods to detect security flaws, misconfigurations, and outdated software that could be exploited by attackers.
+
+<img width="390" height="312" alt="image" src="https://github.com/user-attachments/assets/8a87a036-25ae-410c-be1b-bb348af88d8a" />
+
