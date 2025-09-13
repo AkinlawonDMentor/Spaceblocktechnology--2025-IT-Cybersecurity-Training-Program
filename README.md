@@ -127,8 +127,32 @@ Space Block Technology has helped me in many ways, enhancing my daily learning t
 
 
 
-Space Block Technology is a startup IT firm offering Training and Services on Software Development and Cybersecurity.
+About Space Block Technology
+
+Space Block Technology is a fast-growing startup IT firm committed to empowering individuals and businesses through cutting-edge technology solutions. We specialize in delivering comprehensive training programs and professional services in the areas of Software Development and Cybersecurity.
+
+Our training arm equips learners with hands-on skills in web development, application security, ethical hacking, vulnerability assessment, penetration testing, and secure system design. On the services side, we provide tailored solutions such as secure software development, system integration, security assessments, and consulting to help organizations safeguard their digital assets.
+
+By bridging the gap between innovation, skill development, and cybersecurity resilience, Space Block Technology is building the next generation of IT professionals while helping businesses thrive in today’s ever-evolving digital landscape.
+
+
+
+<br><br>
 
 
 ![spaceblock technology](https://github.com/user-attachments/assets/0cc20cd8-c80a-4b33-acbf-289a3dc9a9b7)
+
+
+
+
+
+
+
+<br><br>
+
+
+
+
+Social media
+https://www.linkedin.com/company/spaceblock-technology/?viewAsMember=true
 
