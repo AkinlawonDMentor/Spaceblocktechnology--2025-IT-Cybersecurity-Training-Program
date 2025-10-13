@@ -14,6 +14,8 @@ Cybersecurity & Ethical Hacking: My Tactical Edge  My cybersecurity expertise is
 
 
 
+Femi Luther
+
 Capable hands passing on a rich experience to me . A very practical class and hands -on experience. Emphasis has been placed in understanding the terms and definition.
 
 <img width="324" height="385" alt="image" src="https://github.com/user-attachments/assets/856fbe98-43a1-4f36-b100-dcc8c56ba89f" />
@@ -24,6 +26,8 @@ Capable hands passing on a rich experience to me . A very practical class and ha
 <br><br>
 
 
+
+Nnaji tochi
 
 The training was an intensive, hands-on experience that blended theory with real-world practice. It helped me build strong technical, analytical, and communication skills while boosting my confidence in solving real-life challenges. I gained a deeper understanding of key industry standards and how to apply them effectively in professional settings.
 
