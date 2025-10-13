@@ -25,6 +25,16 @@ Capable hands passing on a rich experience to me . A very practical class and ha
 
 
 
+The training was an intensive, hands-on experience that blended theory with real-world practice. It helped me build strong technical, analytical, and communication skills while boosting my confidence in solving real-life challenges. I gained a deeper understanding of key industry standards and how to apply them effectively in professional settings.
+
+<img width="325" height="268" alt="image" src="https://github.com/user-attachments/assets/bcbecaa3-c7ae-48db-b84c-34e35bd7b1ba" />
+
+
+
+<br><br>
+
+
+
 Uzoka PraiseGod Chimpuluime 
 
 As part of my cybersecurity training, I developed the skill of Vulnerability Analysis, which involves systematically identifying, evaluating, and prioritizing weaknesses in computer systems, networks, and applications. I learned how to use vulnerability scanning tools and manual assessment methods to detect security flaws, misconfigurations, and outdated software that could be exploited by attackers.
