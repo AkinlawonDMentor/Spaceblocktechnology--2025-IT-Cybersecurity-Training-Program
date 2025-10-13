@@ -9,11 +9,19 @@ Cybersecurity & Ethical Hacking: My Tactical Edge  My cybersecurity expertise is
 
 
 
-
 <br><br>
 
 
 
+
+Capable hands passing on a rich experience to me . A very practical class and hands -on experience. Emphasis has been placed in understanding the terms and definition.
+
+<img width="324" height="385" alt="image" src="https://github.com/user-attachments/assets/856fbe98-43a1-4f36-b100-dcc8c56ba89f" />
+
+
+
+
+<br><br>
 
 
 
