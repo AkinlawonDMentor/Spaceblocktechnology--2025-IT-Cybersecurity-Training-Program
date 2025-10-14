@@ -27,6 +27,18 @@ Capable hands passing on a rich experience to me . A very practical class and ha
 
 
 
+Olasanmi Emmanuel Ilesanmi 
+
+So far, my training experience has been both practical and insightful. I have gained valuable hands-on skills and a deeper understanding of key cybersecurity and ethical hacking concepts. Through various exercises, I learned how to conduct network reconnaissance, identify vulnerabilities, and effectively use essential tools such as Nmap, Netdiscover, and other Kali Linux utilities. Beyond technical expertise, the training enhanced my analytical thinking, problem-solving skills, and attention to detail. It also taught me how to approach cybersecurity challenges systematically — from information gathering to vulnerability assessment and mitigation. Overall, this experience has strengthened my foundation and boosted my confidence in handling real-world cybersecurity tasks.
+
+<img width="311" height="325" alt="image" src="https://github.com/user-attachments/assets/e98f581e-73a1-4707-a953-81aae31e33ce" />
+
+
+
+<br><br>
+
+
+
 Nnaji tochi
 
 The training was an intensive, hands-on experience that blended theory with real-world practice. It helped me build strong technical, analytical, and communication skills while boosting my confidence in solving real-life challenges. I gained a deeper understanding of key industry standards and how to apply them effectively in professional settings.
