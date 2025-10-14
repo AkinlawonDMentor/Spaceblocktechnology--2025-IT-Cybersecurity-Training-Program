@@ -43,8 +43,7 @@ Chigozie Matthew okika
 
 At first, I felt discouraged and thought it would be difficult for me, but as I continued learning, it turned out to be much easier than I expected. I highly recommend Mr. Akin to anyone who wishes to gain this valuable knowledge and opportunity.
 
-<img width="231" height="154" alt="image" src="https://github.com/user-attachments/assets/316a428b-328e-45fb-ac0a-91f57f1e5e31" />
-
+<img width="234" height="208" alt="image" src="https://github.com/user-attachments/assets/ca4620a9-c6ba-4694-a6a2-9fa130c483b9" />
 
 
 <br><br>
