@@ -39,6 +39,19 @@ So far, my training experience has been both practical and insightful. I have ga
 
 
 
+Chigozie Matthew okika 
+
+At first, I felt discouraged and thought it would be difficult for me, but as I continued learning, it turned out to be much easier than I expected. I highly recommend Mr. Akin to anyone who wishes to gain this valuable knowledge and opportunity.
+
+<img width="231" height="154" alt="image" src="https://github.com/user-attachments/assets/316a428b-328e-45fb-ac0a-91f57f1e5e31" />
+
+
+
+<br><br>
+
+
+
+
 Nnaji tochi
 
 The training was an intensive, hands-on experience that blended theory with real-world practice. It helped me build strong technical, analytical, and communication skills while boosting my confidence in solving real-life challenges. I gained a deeper understanding of key industry standards and how to apply them effectively in professional settings.
