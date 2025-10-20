@@ -35,6 +35,33 @@ So far, my training experience has been both practical and insightful. I have ga
 
 
 
+
+<br><br>
+
+
+
+Ekwe Favour Uchenna 
+
+My cybersecurity training has been practical and insightful, strengthening my understanding of network security, endpoint protection, and real-world defense strategies. I gained hands-on experience with VAPT using Kali Linux, including reconnaissance, scanning, exploitation, and reporting. I also learned how attackers gather information and how to prevent such threats. Overall, the training improved my ability to assess risks, respond to incidents, and implement effective security measures.
+
+<img width="336" height="329" alt="image" src="https://github.com/user-attachments/assets/f57256ed-23f7-4ec6-86bd-67b2a38cde96" />
+
+
+
+
+<br><br>
+
+
+
+
+Jekwu Chiemelie Moses
+
+It has been a great experience. I have gained a solid understanding of cybersecurity fundamentals and can now configure IP addresses, subnet masks, and other core network concepts with ease. I can also perform more advanced tasks such as network configuration using Cisco Packet Tracer and vulnerability assessments with Nessus.
+
+<img width="306" height="293" alt="image" src="https://github.com/user-attachments/assets/79cc1bcc-55d9-4f49-b8b3-c962fe81d8f4" />
+
+
+
 <br><br>
 
 
@@ -46,8 +73,8 @@ At first, I felt discouraged and thought it would be difficult for me, but as I 
 <img width="234" height="208" alt="image" src="https://github.com/user-attachments/assets/ca4620a9-c6ba-4694-a6a2-9fa130c483b9" />
 
 
-<br><br>
 
+<br><br>
 
 
 
